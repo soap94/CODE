@@ -1,2 +1,2 @@
 # CODE
-the CODE project
+this is the CODE project.
